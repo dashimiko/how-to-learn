@@ -258,7 +258,7 @@
 .table__text_theme_dark {}
 
 .kaufman__triangle {
-  background-image: url("../../../projects/how-to-learn/images/kaufman-triangle.svg");
+  background-image: url("../images/kaufman-triangle.svg");
   position: absolute;
   right: -210px;
   top: 0;
