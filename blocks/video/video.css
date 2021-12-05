@@ -1,5 +1,6 @@
-.digits {
-  margin: 100px 0 100px;
+.video {
+  margin: 100px auto 0;
+  padding: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
