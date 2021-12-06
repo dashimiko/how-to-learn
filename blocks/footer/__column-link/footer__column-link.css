@@ -4,3 +4,8 @@
   padding: 0;
   color: white;
 }
+
+.footer__column-link:hover {
+  color: #2f81edde;
+  transition: background-color 1s linear 0.5s;
+}

@@ -8,3 +8,8 @@
   text-decoration: none;
   color: #2f80ed;
 }
+
+.feynman__link:hover {
+  color: #2f81ed7a;
+  transition: background-color 1s linear 0.5s;
+}
